@@ -1,6 +1,6 @@
 ## Hi, I'm Mieszek 👋
 
-Backend developer building APIs in Python with FastAPI, GraphQL and PostgreSQL.
+IT student at a technical high school, building backend APIs in Python with FastAPI, GraphQL and PostgreSQL.
 
 ### Stack
 
